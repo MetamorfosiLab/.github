@@ -1,6 +1,6 @@
 # Welcome to Metamorfosi 👋
 
-![Metamorfosi Logo](https://metamorfosi.agency/app/public/images/Logo.svg)
+[![Metamorfosi Logo](https://metamorfosi.agency/app/public/images/Logo.svg)](https://metamorfosi.agency/en/)
 
 ## Active Plugins 🛠️
 
