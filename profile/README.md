@@ -2,6 +2,17 @@
 
 ![Metamorfosi Logo](https://metamorfosi.agency/app/public/images/Logo.svg)
 
+## Active Plugins 🛠️
+
+Explore our actively maintained plugins:
+
+1. [Meta Map](https://github.com/MetamorfosiLab/meta-map) - **MetaMap** is a JavaScript library for creating interactive maps of countries with markers. It is built using D3.js and provides a flexible and customizable way to visualize geographic data.
+2. [Cookies Consent](https://github.com/MetamorfosiLab/cookies-consent) - A plugin to manage cookies consent on websites.
+
+Feel free to check them out, contribute, or provide feedback!
+
+---
+
 ## 🚀 About Us
 
 At Metamorfosi, our primary goal is to create bespoke projects tailored to our needs. Over the years, we've encountered challenges when dealing with unique packages/plugins. Often, integrating them into projects led to perpetual migrations, making it difficult to keep them updated and manage versions. So we decided to make this community to fix this problems 😁
